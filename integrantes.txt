@@ -1,0 +1,5 @@
+Arquivo de Integrantes
+
+RM: 571063
+Nome: Nicholas de Lucas Belo
+Repositório: https://github.com/nickbelo2201/cpVI-frontend
